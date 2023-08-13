@@ -12,6 +12,7 @@ const Header: React.FC = () => {
         alt="Weather logo"
         width={156}
         height={72}
+        priority={true}
       />
       <ThemeSwitcher />
     </div>

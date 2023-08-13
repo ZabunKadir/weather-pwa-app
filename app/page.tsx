@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <main className="flex bg-white dark:bg-gray-900 flex-col items-center justify-between px-4 mobile:px-8 py-24 h-screen">
